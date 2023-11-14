@@ -1,4 +1,4 @@
-# EMblock-Project
+Food Restaurant
 Responsive Restaurant Website Design Using HTML CSS & JavaScript,
 Contains animations when scrolling,
 Includes a dark & light theme,
